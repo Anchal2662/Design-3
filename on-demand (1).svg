@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.573" height="46.134" viewBox="0 0 47.573 46.134">
+  <g id="on-demand_1_" data-name="on-demand (1)" transform="translate(-1.73 -2.52)">
+    <path id="Path_28062" data-name="Path 28062" d="M44.99,18.374H4.392a2.5,2.5,0,1,1,0-5h40.6a2.5,2.5,0,0,1,0,5Z" transform="translate(0.447 30.279)" fill="#ecb74b"/>
+    <path id="Path_28063" data-name="Path 28063" d="M6.734,5.142v40.6a2.5,2.5,0,1,1-5,0V5.142a2.5,2.5,0,0,1,5,0Z" transform="translate(0 0.335)" fill="#ecb74b"/>
+    <g id="Group_14610" data-name="Group 14610" transform="translate(12.192 2.52)">
+      <path id="Path_28064" data-name="Path 28064" d="M9.607,33.408,5.968,29.769a5.033,5.033,0,0,1,0-7.126L22.913,5.7a5.033,5.033,0,0,1,7.126,0l3.639,3.639a5.033,5.033,0,0,1,0,7.126L16.734,33.408a5.033,5.033,0,0,1-7.126,0Z" transform="translate(-4.49 2.224)" fill="#26dfad"/>
+      <path id="Path_28065" data-name="Path 28065" d="M26.807,23.6c1.592,1.478,3.146-.834,3.146-2.35l.19-16.755A1.958,1.958,0,0,0,28.171,2.52l-16.717.152c-1.554,0-3.942,1.668-2.312,3.26C13.388,10.063,22.031,19.123,26.807,23.6Z" transform="translate(6.968 -2.52)" fill="#26dfad"/>
+    </g>
+  </g>
+</svg>

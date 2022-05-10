@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52.919" height="40.309" viewBox="0 0 52.919 40.309">
+  <g id="profile" transform="translate(0 -61)">
+    <g id="Group_14853" data-name="Group 14853" transform="translate(0 61)">
+      <g id="Group_14852" data-name="Group 14852">
+        <path id="Path_28474" data-name="Path 28474" d="M48.268,61H4.651A4.656,4.656,0,0,0,0,65.651V96.658a4.656,4.656,0,0,0,4.651,4.651H48.268a4.656,4.656,0,0,0,4.651-4.651V65.651A4.656,4.656,0,0,0,48.268,61ZM20.155,95.108A13.953,13.953,0,1,1,34.108,81.155,14.011,14.011,0,0,1,20.155,95.108Zm25.012-3.1H38.759a1.55,1.55,0,1,1,0-3.1h6.408a1.55,1.55,0,1,1,0,3.1Zm0-6.2H38.759a1.55,1.55,0,0,1,0-3.1h6.408a1.55,1.55,0,0,1,0,3.1Zm0-6.2H38.759a1.55,1.55,0,1,1,0-3.1h6.408a1.55,1.55,0,1,1,0,3.1Zm0-6.2H38.759a1.55,1.55,0,1,1,0-3.1h6.408a1.55,1.55,0,1,1,0,3.1Z" transform="translate(0 -61)" fill="#26dfad"/>
+      </g>
+    </g>
+    <g id="Group_14855" data-name="Group 14855" transform="translate(9.302 70.302)">
+      <g id="Group_14854" data-name="Group 14854" transform="translate(0 0)">
+        <path id="Path_28475" data-name="Path 28475" d="M100.853,151a10.826,10.826,0,0,0-8.879,17.058,10.758,10.758,0,0,1,4.28-3.634,6.2,6.2,0,1,1,9.2,0,10.758,10.758,0,0,1,4.28,3.634A10.826,10.826,0,0,0,100.853,151Z" transform="translate(-90 -151)" fill="#ecb74b"/>
+      </g>
+    </g>
+    <g id="Group_14857" data-name="Group 14857" transform="translate(17.054 76.504)">
+      <g id="Group_14856" data-name="Group 14856" transform="translate(0 0)">
+        <path id="Path_28476" data-name="Path 28476" d="M168.1,211a3.1,3.1,0,1,0,3.1,3.1A3.1,3.1,0,0,0,168.1,211Z" transform="translate(-165 -211)" fill="#ecb74b"/>
+      </g>
+    </g>
+    <g id="Group_14859" data-name="Group 14859" transform="translate(13.468 85.806)">
+      <g id="Group_14858" data-name="Group 14858" transform="translate(0 0)">
+        <path id="Path_28477" data-name="Path 28477" d="M136.992,301a7.713,7.713,0,0,0-6.687,3.831,10.615,10.615,0,0,0,13.373,0A7.713,7.713,0,0,0,136.992,301Z" transform="translate(-130.305 -301)" fill="#ecb74b"/>
+      </g>
+    </g>
+  </g>
+</svg>
