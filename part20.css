@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+.part20 img{
+    position: absolute;
+    top: 18224px;
+left: 0px;
+width: 1440px;
+height: 374px;
+background: transparent url('img3/Group 14412.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.part20 h2{
+    top: 18312px;
+left: 222px;
+width: 996px;
+height: 100px;
+text-align: center;
+font: normal normal 600 37px/49px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+.part20 .gg{
+    position: absolute;
+    top: 18453px;
+left: 507px;
+width: 426px;
+height: 57px;
+border: none;
+font-size: 18px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 6px;
+opacity: 1;
+font-weight: 300px;
+}
+.part20 .btt img{
+    top: 10px;
+left: 25px;
+width: 34px;
+height: 35px;
+background: transparent url('img3/conversation.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+
+}
+.part20 h3{
+    top: 18718px;
+left: 428px;
+width: 584px;
+height: 93px;
+text-align: center;
+font: normal normal bold 34px/47px Open Sans;
+letter-spacing: 0px;
+color: #1E2036;
+opacity: 1;
+position: absolute;
+}

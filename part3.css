@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+
+.header .card-wrap1{
+    top: 1350px;
+    left: 130px;
+    width: 381px;
+    height: 342px;
+    position: absolute;
+    background: #ffffff;
+    border-radius: 10px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    
+}
+.header .card-wrap2{
+    top: 1350px;
+    left: 531px;
+    width: 381px;
+    height: 342px;
+    position: absolute;
+    background: #ffffff;
+    border-radius: 10px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    
+}
+.header .card-wrap3{
+    top: 1350px;
+    left: 929px;
+    width: 381px;
+    height: 342px;
+    position: absolute;
+    background: #ffffff;
+    border-radius: 10px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    
+}
+.header .card-wrap4{
+    
+    top: 1710px;
+    left: 531px;
+    width: 381px;
+    height: 342px; 
+    position: absolute;   
+    background: #ffffff;
+    border-radius: 10px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    
+}
+
+
+  .card-wrap1 .card-item1 .card-inner1 img{
+    margin-top: 40px;
+    left: 31px;
+    width: 73px;
+    height: 73px;
+    position: absolute;
+    opacity: 1;
+ }
+.card-wrap1 .card-inner1 .head1{
+    
+    overflow: hidden;
+    margin-top: 129px;
+    margin-left: 31px;
+    width: 220px;
+    height: 63px;
+    position: absolute;
+    text-align: left;
+    font: normal normal 600 26px/32px Gilroy;
+    letter-spacing: 0px;
+    color: #201D1D;
+    opacity: 1;
+}
+.card-wrap1 .card-inner1 .content1{
+    margin-top: 216px;
+    margin-left: 31px;
+    width: 300px;
+    height: 75px;
+    text-align: left;
+    position: absolute;
+    font: normal normal normal 16px/28px Gilroy;
+    letter-spacing: 0px;
+    color: #201D1D;
+    opacity: 0.97;
+}
+
+.card-wrap2 .card-item2 .card-inner2 img{
+    margin-top: 31px;
+    left: 31px;
+    width: 73px;
+    height: 73px;
+    position: absolute;
+    opacity: 1;
+ }
+.card-wrap2 .card-inner2 .head2{
+    
+    overflow: hidden;
+    margin-top: 133px;
+    margin-left: 31px;
+    width: 260px;
+    height: 63px;
+    position: absolute;
+    text-align: left;
+    font: normal normal 600 26px/32px Gilroy;
+    letter-spacing: 0px;
+    color: #201D1D;
+    opacity: 1;
+}
+.card-wrap2 .card-inner2 .content2{
+    margin-top: 188px;
+    margin-left: 31px;
+    width: 300px;
+    height: 75px;
+    text-align: left;
+    position: absolute;
+    font: normal normal normal 16px/28px Gilroy;
+    letter-spacing: 0px;
+    color: #201D1D;
+    opacity: 0.97;
+}
+
+.card-wrap3 .card-item3 .card-inner3 img{
+    margin-top: 27px;
+    left: 34px;
+    width: 73px;
+    height: 73px;
+    position: absolute;
+    opacity: 1;
+ }
+.card-wrap3 .card-inner3 .head3{
+    
+    overflow: hidden;
+    margin-top: 129px;
+    margin-left: 31px;
+    width: 222px;
+    height: 31px;
+    position: absolute;
+    text-align: left;
+    font: normal normal 600 26px/32px Gilroy;
+    letter-spacing: 0px;
+    color: #201D1D;
+    opacity: 1;
+}
+.card-wrap3 .card-inner3 .content3{
+    margin-top: 188px;
+    margin-left: 31px;
+    width: 320px;
+    height: 103px;
+    text-align: left;
+    position: absolute;
+    font: normal normal normal 16px/28px Gilroy;
+    letter-spacing: 0px;
+    color: #201D1D;
+    opacity: 0.97;
+}
+
+.card-wrap4 .card-item4 .card-inner4 img{
+    margin-top: 34px;
+    left: 31px;
+    width: 73px;
+    height: 73px;
+    position: absolute;
+    opacity: 1;
+ }
+
+.card-wrap4 .card-inner4 .head4{
+    
+    overflow: hidden;
+    margin-top: 123px;
+    margin-left: 31px;
+    width: 259px;
+    height: 63px;
+    position: absolute;
+    text-align: left;
+    font: normal normal 600 26px/32px Gilroy;
+    letter-spacing: 0px;
+    color: #201D1D;
+    opacity: 1;
+}
+.card-wrap4 .card-inner4 .content4{
+    margin-top: 211px;
+    margin-left: 31px;
+    width: 336px;
+    height: 103px;
+    text-align: left;
+    position: absolute;
+    font: normal normal normal 16px/28px Gilroy;
+    letter-spacing: 0px;
+    color: #201D1D;
+    opacity: 0.97;
+}
+
+
+

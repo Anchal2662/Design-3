@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+#o1{
+    position: absolute;
+    top: 16713px;
+left: 989px;
+width: 338px;
+height: 494px;
+background: transparent url('img3/Group 15153.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+#o2{
+    position: absolute;
+    top: 16853px;
+left: 848px;
+width: 477px;
+height: 414px;
+background: transparent url('img3/executive-prepared-sign-contract.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.part17 h2{
+    top: 16823px;
+left: 137px;
+width: 353px;
+height: 96px;
+text-align: left;
+font: normal normal bold 37px/45px Open Sans;
+letter-spacing: 0.37px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+.part17 p{
+    position: absolute;
+    top: 16961px;
+left: 137px;
+width: 583px;
+height: 75px;
+text-align: left;
+font: normal normal medium 18px/27px Gilroy ☞;
+letter-spacing: 0.09px;
+color: #515151;
+opacity: 1;
+
+}
+.part17 .p17 h2{
+    position: absolute;
+    top: 17116px;
+left: 142px;
+width: 188px;
+height: 36px;
+text-align: left;
+font: normal normal 600 26px/32px Open Sans;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 1;
+}
+.part17 .p17 p{
+    position: absolute;
+    top: 17180px;
+left: 142px;
+width: 336px;
+height: 75px;
+text-align: left;
+font: normal normal normal 16px/28px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 0.97;
+}
+.part17 .pt17 h2{
+    position: absolute;
+    top: 17116px;
+left: 530px;
+width: 168px;
+height: 36px;
+text-align: left;
+font: normal normal 600 26px/32px Open Sans;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 1;
+}
+.part17 .pt17 p{
+    position: absolute;
+    top: 17180px;
+left: 530px;
+width: 336px;
+height: 103px;
+text-align: left;
+font: normal normal normal 16px/28px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 0.97;
+}

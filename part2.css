@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.text-box2{
+   
+    top: 585px;
+    left: 0px;
+    width: 1440px;
+    height: 375px;
+    background-color:#F2F6FC;
+    position: absolute;
+    
+}
+ .text-box2 h2{
+position: absolute ;
+top: 80px;
+left: 130px;
+width: 756px;
+height: 72px;
+text-align: left;
+font: normal normal medium 26px/42px Gilroy;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+
+}
+.text-box2 p{
+    position: absolute;
+    top: 234px;
+    left: 125px;
+    width: 1190px;
+    height: 53px;
+    background: transparent url('img3/Group 11283.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+.text-box3{
+    top: 980px;
+    left: 0px;
+    width: 1440px;
+    height: 1156px;
+    /* UI Properties */
+    background-color:#F2F6FC;
+    position: absolute;
+}
+.text-box3 h2{
+    position: absolute;
+    top: 95px;
+    left: 130px;
+    width: 431px;
+    height: 110px;
+    text-align: left;
+    font: normal normal 600 41px/54px Open Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.text-box3 p{
+    position: absolute;
+    top: 255px;
+    left: 130px;
+    width: 993px;
+    height: 49px;
+    line-height-step: 25px;
+    font-weight: 300px;
+    text-align: left;
+    font: normal normal medium 18px/28px Gilroy;
+    letter-spacing: 0px;
+    color:#000000;
+    opacity: 1;
+}
+
+
+@media only screen and (max-width:700px){
+
+.text-box2{
+    height: 2500px;
+    max-width: 760px;
+
+}
+.text-box2 h2
+{
+    width: 300px;
+    margin-right: 100px;
+    text-align: left;
+    font: normal normal 20px Open Sans;
+    letter-spacing: 0px;
+    color: #201D1D;
+    opacity: 1;
+    font-weight: 500;
+}
+.text-box2 p{
+    background-image: transparent url('img3/Group 11283.png') 0% 0% no-repeat padding-box;
+    display: none;
+    
+}
+.text-box3{
+    height: 2500px;
+    max-width: 760px;
+
+}
+.text-box3 h2{
+    width: 300px;
+    margin-right: 100px;
+    text-align: left;
+    font: normal normal 20px Open Sans;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+    font-weight: 600;
+}
+
+
+}

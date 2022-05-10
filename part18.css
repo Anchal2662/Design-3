@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+#w1{
+    position: absolute;
+    top: 17398px;
+left: 195px;
+width: 42px;
+height: 42px;
+background: transparent url('img3/Group 14931.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+#w2{
+    position: absolute;
+    top: 17398px;
+    left: 453px;
+    width: 42px;
+    height: 42px;
+    background: transparent url('img3/Group 14932.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#w3{
+    position: absolute;
+    top: 17398px;
+left: 711px;
+width: 42px;
+height: 42px;
+background: transparent url('img3/Group 14933.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+#w4{
+    position: absolute;
+    top: 17398px;
+left: 969px;
+width: 42px;
+height: 42px;
+background: transparent url('img3/Group 14934.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+#w5{
+    position: absolute;
+    top: 17398px;
+left: 1227px;
+width: 42px;
+height: 42px;
+background: transparent url('img3/Group 14935.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+#w6{
+    position: absolute;
+    top: 17472px;
+left: 193px;
+width: 46px;
+height: 46px;
+background: transparent url('img3/coding (4).png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+#w7{
+    position: absolute;
+    top: 17478px;
+left: 448px;
+width: 53px;
+height: 40px;
+background: transparent url('img3/profile.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+#w8{
+    position: absolute;
+    top: 17468px;
+left: 705px;
+width: 50px;
+height: 50px;
+background: transparent url('img3/interview.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+#w9{
+    position: absolute;
+    top: 17474px;
+left: 965px;
+width: 50px;
+height: 44px;
+background: transparent url('img3/credit-card (3).png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+#w10{
+    position: absolute;
+    top: 17472px;
+left: 1224px;
+width: 49px;
+height: 43px;
+background: transparent url('img3/partnership.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+
+}
+.pt18 h2{
+    position: absolute;
+    top: 17532px;
+left: 113px;
+width: 206px;
+height: 55px;
+text-align: center;
+font: normal normal 600 19px/29px Open Sans;
+letter-spacing: 0px;
+color: #020202;
+opacity: 1;
+
+}
+.pt18 h3{
+    position: absolute;
+    top: 17534px;
+left: 366px;
+width: 217px;
+height: 55px;
+text-align: center;
+font: normal normal 600 19px/29px Open Sans;
+letter-spacing: 0px;
+color: #020202;
+opacity: 1;
+}
+.pt18 h4{
+    position: absolute;
+    top: 17534px;
+left: 625px;
+width: 214px;
+height: 55px;
+text-align: center;
+font: normal normal 600 19px/29px Open Sans;
+letter-spacing: 0px;
+color: #020202;
+opacity: 1;
+}
+.pt18 h5{
+    position: absolute;
+    top: 17534px;
+left: 920px;
+width: 140px;
+height: 55px;
+text-align: center;
+font: normal normal 600 19px/29px Open Sans;
+letter-spacing: 0px;
+color: #020202;
+opacity: 1;
+}
+.pt18 h1{
+    position: absolute;
+    top: 17532px;
+left: 1193px;
+width: 110px;
+height: 26px;
+text-align: center;
+font: normal normal 600 19px/29px Open Sans;
+letter-spacing: 0px;
+color: #020202;
+opacity: 1;
+}
+
+
+/* part19 css */
+.part19 h2{
+    position: absolute;
+    top: 17840px;
+left: 685px;
+width: 316px;
+height: 51px;
+text-align: left;
+font: normal normal bold 37px/60px Open Sans;
+letter-spacing: 0.37px;
+color: #000000;
+opacity: 1;
+}
+.part19 p{
+    position: absolute;
+    top: 17936px;
+left: 685px;
+width: 595px;
+height: 75px;
+text-align: left;
+font: normal normal medium 18px/27px Gilroy ☞;
+letter-spacing: 0.09px;
+color: #515151;
+opacity: 1;
+}
+#ic1{
+    top: 17643px;
+left: 142px;
+width: 332px;
+height: 494px;
+background: transparent url('img3/Group 15154.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+#ic2{
+    top: 17770px;
+left: 190px;
+width: 381px;
+height: 330px;
+background: transparent url('img3/top-view-businesswoman-sitting-desk-table-checking-financial-accounting-documents.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}

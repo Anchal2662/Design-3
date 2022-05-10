@@ -1,0 +1,451 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+.cd1{
+    position: absolute;
+    top: 13600px;
+left: 130px;
+width: 381px;
+height: 342px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+#a1{
+    position: absolute;
+    top: 43px;
+left: 31px;
+width: 65px;
+height: 65px;
+background: transparent url('img3/mobile.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.cd1 h2{
+    position: absolute;
+    top: 133px;
+left: 31px;
+width: 210px;
+height: 31px;
+text-align: left;
+font-size: 26px;
+font: normal normal 600 26px/32px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 1;
+}
+.cd1 p{
+    top: 180px;
+left: 31px;
+width: 336px;
+height: 103px;
+text-align: left;
+font: normal normal normal 16px/28px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 0.97;
+position: absolute;
+
+}
+
+.cd2{
+    top: 13600px;
+left: 531px;
+width: 381px;
+height: 342px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+position: absolute;
+
+}
+#a2{
+    top: 43px;
+left: 31px;
+width: 58px;
+height: 58px;
+background: transparent url('img3/virtual-reality.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+
+}
+.cd2 h2{
+    top: 127px;
+left: 31px;
+width: 281px;
+height: 36px;
+position: absolute;
+font-size: 26px;
+text-align: left;
+font: normal normal 600 26px/32px Open Sans;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 1;
+}
+.cd2 p{
+    top: 188px;
+left: 31px;
+width: 323px;
+height: 103px;
+font-size: 16px;
+text-align: left;
+font: normal normal normal 16px/28px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 0.97;
+position: absolute;
+}
+
+.cd3{
+    top: 13600px;
+left: 932px;
+width: 381px;
+height: 342px;
+position: absolute;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+.cd3 h2{
+position: absolute;
+font-size: 26px;
+top: 120px;
+left: 31px;
+width: 222px;
+height: 68px;
+text-align: left;
+font: normal normal 600 26px/32px Open Sans;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 1;
+}
+.cd3 p{
+    position: absolute;
+font-size: 16px;
+top: 213px;
+left: 31px;
+width: 323px;
+height: 103px;
+text-align: left;
+font: normal normal normal 16px/28px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 0.97;
+
+}
+#a3{
+    position: absolute;
+    top: 46px;
+left: 31px;
+width: 48px;
+height: 46px;
+background: transparent url('img3/on-demand (1).png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.cd4{
+    position: absolute;
+    top: 13962px;
+left: 130px;
+width: 381px;
+height: 342px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+#a4{
+    position: absolute;
+    top: 36px;
+left: 31px;
+width: 76px;
+height: 66px;
+background: transparent url('img3/ecommerce (1).png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.cd4 h2{
+    position: absolute;
+    font-size: 26px;
+    top: 119px;
+left: 31px;
+width: 302px;
+height: 36px;
+text-align: left;
+font: normal normal 600 26px/32px Open Sans;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 1;
+
+}
+.cd4 p{
+    position: absolute;
+    font-size: 16px;
+    top: 178px;
+left: 31px;
+width: 336px;
+height: 131px;
+text-align: left;
+font: normal normal normal 16px/28px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 0.97;
+}
+.cd5{
+    position: absolute;
+    top: 13962px;
+    
+left: 531px;
+width: 381px;
+height: 342px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+#a5{
+    position: absolute;
+    top: 33px;
+left: 31px;
+width: 42px;
+height: 69px;
+background: transparent url('img3/Medical Application.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.cd5 h2{
+    position: absolute;
+    font-size: 26px;
+    top: 119px;
+left: 31px;
+width: 286px;
+height: 36px;
+text-align: left;
+font: normal normal 600 26px/32px Open Sans;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 1;
+}
+.cd5 p{
+    position: absolute;
+    font-size: 16px;
+    top: 180px;
+left: 31px;
+width: 336px;
+height: 131px;
+text-align: left;
+font: normal normal normal 16px/28px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 0.97;
+}
+.cd6{
+    position: absolute;
+    top: 13962px;
+    
+left: 932px;
+width: 381px;
+height: 342px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+#a6{
+    position: absolute;
+    top: 36px;
+left: 31px;
+width: 66px;
+height: 66px;
+background: transparent url('img3/bank.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.cd6 h2{
+    position: absolute;
+    font-size: 26px;
+    top: 126px;
+left: 31px;
+width: 288px;
+height: 68px;
+text-align: left;
+font: normal normal 600 26px/32px Open Sans;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 1;
+
+}
+.cd6 p{
+    position: absolute;
+    font-size: 16px;
+    top: 220px;
+left: 31px;
+width: 319px;
+height: 103px;
+text-align: left;
+font: normal normal normal 16px/28px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 0.97;
+}
+.cd7{
+    position: absolute;
+    top: 14325px;
+left: 130px;
+width: 381px;
+height: 342px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+#a7{
+    top: 57px;
+left: 31px;
+width: 60px;
+height: 46px;
+background: transparent url('img3/van.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.cd7 h2{
+    position: absolute;
+    font-size: 26px;
+    top: 133px;
+left: 31px;
+width: 248px;
+height: 31px;
+text-align: left;
+font: normal normal 600 26px/32px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 1;
+}
+.cd7 p{
+    position: absolute;
+    font-size: 16px;
+    top: 180px;
+left: 31px;
+width: 302px;
+height: 131px;
+text-align: left;
+font: normal normal normal 16px/28px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 0.97;
+}
+.cd8{
+    position: absolute;
+    top: 14325px;
+left: 531px;
+width: 381px;
+height: 342px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+#a8{
+    position: absolute;
+    top: 40px;
+left: 31px;
+width: 67px;
+height: 55px;
+background: transparent url('img3/college-graduation (2).png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.cd8 h2{
+    position: absolute;
+    font-size: 26px;
+    top: 133px;
+left: 31px;
+width: 230px;
+height: 31px;
+text-align: left;
+font: normal normal 600 26px/32px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 1;
+}
+.cd8 p{
+    position: absolute;
+    font-size: 16px;
+    top: 180px;
+left: 31px;
+width: 336px;
+height: 131px;
+text-align: left;
+font: normal normal normal 16px/28px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 0.97;
+}
+.cd9{
+    position: absolute;
+    top: 14325px;
+left: 929px;
+width: 381px;
+height: 342px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+}
+#a9{
+    position: absolute;
+    top: 31px;
+left: 31px;
+width: 67px;
+height: 73px;
+background: transparent url('img3/passport.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.cd9 h2{
+    position: absolute;
+    font-size: 26px;
+    top: 117px;
+left: 31px;
+width: 223px;
+height: 31px;
+text-align: left;
+font: normal normal 600 26px/32px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 1;
+}
+.cd9 p{
+    position: absolute;
+    font-size: 16px;
+    top: 161px;
+left: 31px;
+width: 329px;
+height: 159px;
+text-align: left;
+font: normal normal normal 16px/28px Gilroy;
+letter-spacing: 0px;
+color: #201D1D;
+opacity: 0.97;
+}
+
+
+.text-box5 h2{
+    position: absolute;
+    top: 14980px;
+left: 379px;
+width: 682px;
+height: 112px;
+font-size: 41px;
+text-align: center;
+font: normal normal bold 41px/56px Open Sans;
+letter-spacing: 0px;
+color: #1E2036;
+opacity: 1;
+
+}
+.text-box5 p{
+    position: absolute;
+    top: 15118px;
+left: 206px;
+width: 1020px;
+height: 50px;
+text-align: center;
+font-size: 16px;
+font: normal normal normal 18px/29px Gilroy;
+letter-spacing: 0.09px;
+color: #1E2036;
+opacity: 1;
+}

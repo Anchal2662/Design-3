@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+.part4{
+    top: 2266px;
+    left: 0px;
+    width: 1440px;
+    height: 374px;
+    position: absolute;
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url(../img3/Group\ 14661.svg);
+    background-position: center;
+    background-size: cover;
+    
+}
+.center{
+    top: 73px;
+    left: 309px;
+    width: 822px;
+    height: 100px;
+    position: absolute;
+    text-align: center;
+    
+}
+.center h4{
+    top: 73px;
+    left: 309px;
+    width: 822px;
+    height: 100px;
+    text-align: center;
+    font: normal normal 600 37px/49px Open Sans;
+    letter-spacing: 0px;
+    color:#fff;
+    opacity: 1; 
+    
+    
+}
+.center p{
+    top: 110px;
+    left: 70px;
+    width: 668px;
+    height: 21px;
+    margin-top: 22px;
+   position: absolute;
+    text-align: center;
+    font-size: 18px;
+    font: normal normal normal 18px/27px Gilroy;
+    letter-spacing: 0.09px;
+    color: #ffffff;
+    opacity: 1;
+    
+}
+ .center .gr-btn{
+    top: 200px;
+    left: 250px;
+    width: 337px;
+    height: 57px;
+   position: absolute;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 18px;
+    border: #fff;
+    font-weight: 400px;
+
+}
+
+/* @media screen and (max-width: 800px){
+    .body,.centered, .centered h4, .centered p, .centered .gr-btn{
+        max-width: 100%;
+        
+    }
+} */
