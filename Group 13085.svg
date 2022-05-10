@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99" height="99" viewBox="0 0 99 99">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.024" x2="0.954" y2="1.048" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#23c0c5"/>
+      <stop offset="1" stop-color="#2fe6b4"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_13085" data-name="Group 13085" transform="translate(1858 -9855)">
+    <circle id="Ellipse_24" data-name="Ellipse 24" cx="49.5" cy="49.5" r="49.5" transform="translate(-1858 9855)" fill="url(#linear-gradient)"/>
+    <path id="Icon_ionic-md-play" data-name="Icon ionic-md-play" d="M6.75,3.656V43.251L37.8,23.453Z" transform="translate(-1827.485 9881.233)" fill="#fff"/>
+  </g>
+</svg>
